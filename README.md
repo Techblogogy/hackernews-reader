@@ -1,4 +1,4 @@
-# Ycombinator Hackernews reader
+# Ycombinator Hackernews Reader (Quick Hack)
 
 This is my part time project. Objective is to create my perfect hackernews reading client.
 
